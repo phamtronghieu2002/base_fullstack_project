@@ -1,0 +1,66 @@
+{ 
+   
+
+    "Home":{
+
+        "Header":{
+            "specialist":{
+                "title":"specialist",
+                "desc": "find a doctor byspecialty"
+            },
+            "Health_facilities":{
+                "title":"Health facilities",
+                  "desc": "Choose hospital clinic"
+            },
+         
+            "doctor":{
+                "title":"doctor",
+                 "desc":"Choose a good doctor"
+            },
+            "check_pakage":{
+                "title":"Checkup package",
+                 "desc":"General health check"
+            }
+          
+        },
+        "Hero":{
+                
+                "MEDICAL_BACKGROUND":"MEDICAL BACKGROUND",
+                "COMPREHENSIVE_HEALTH_CARE":"COMPREHENSIVE HEALTH CARE",
+                "Search":{
+                    "find_a_specialist":"find a specialist",
+                    "find_hospital":"find_hospital",
+                    "find_test_package":"find test package"       
+                }     
+        },
+        "Section":{
+    
+           "popular_specialties":"Popular specialties",
+           "outstanding_medical_facility":"Outstanding medical facility",
+           "Outstanding_Doctor":"Outstanding Doctor",
+           "handbook":"handbook",
+           "downloand":"dowloand booking care app",
+           "book_faster":"book faster",
+           "receive_notify":"receive_notify",
+           "receive_guides":"receive guides",
+           "media_talk_about":"media talk about bokking care",
+           "button":{
+                "search":"search",
+                "post":"post",
+                "contact":"contact",
+                "see_more":"see more",
+                "cooperate":"cooperate"
+           }
+
+
+       
+           
+
+
+        }
+
+
+
+    }
+  
+}

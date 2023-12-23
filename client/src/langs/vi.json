@@ -1,0 +1,49 @@
+{
+  "Home": {
+    "Header": {
+      "specialist": {
+        "title": "Chuyên gia",
+        "desc": "Tìm bác sĩ theo chuyên môn"
+      },
+      "Health_facilities": {
+        "title": "Cơ sở y tế",
+        "desc": "Chọn bệnh viện hoặc phòng khám"
+      },
+      "doctor": {
+        "title": "Bác sĩ",
+        "desc": "Chọn bác sĩ uy tín"
+      },
+      "check_pakage": {
+        "title": "Gói kiểm tra sức khỏe",
+        "desc": "Kiểm tra sức khỏe tổng quát"
+      }
+    },
+    "Hero": {
+      "MEDICAL_BACKGROUND": "Nền tảng y tế",
+      "COMPREHENSIVE_HEALTH_CARE": "Chăm sóc sức khỏe toàn diện",
+      "Search": {
+        "find_a_specialist": "Tìm chuyên gia",
+        "find_hospital": "Tìm bệnh viện",
+        "find_test_package": "Tìm gói kiểm tra"
+      }
+    },
+    "Section": {
+      "popular_specialties": "Chuyên khoa phổ biến",
+      "outstanding_medical_facility": "Cơ sở y tế nổi bật",
+      "handbook": "cẩm nang",
+      "downloand": "Tải ứng dụng đặt lịch chăm sóc",
+      "book_faster": "Đặt lịch nhanh hơn",
+      "receive_notify":"nhận thông báo từ hệ thống",
+      "receive_guides": "Nhận hướng dẫn",
+      "media_talk_about": "Truyền thông nói về BookingCare",
+      "Outstanding_Doctor":"Bác sĩ nổi bật trong tuần",
+      "button": {
+        "search": "Tìm kiếm",
+        "post": "Đăng bài",
+        "contact": "Liên hệ",
+        "see_more":"xem thêm",
+        "cooperate":"hợp tác"
+      }
+    }
+  }
+}
